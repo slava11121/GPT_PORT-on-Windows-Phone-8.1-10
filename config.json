@@ -1,0 +1,12 @@
+{
+  "bind_host": "0.0.0.0",
+  "bind_port": 5550,
+
+  "openai_api_key": "API-Ключ OpenAI",
+  "openai_org": "",
+  "openai_base": "https://api.openai.com",
+
+  "default_model": "gpt-4o-mini",
+  "request_timeout_sec": 45,
+  "allow_origins": [ "*" ]
+}
